@@ -2,7 +2,7 @@
 
 I'm a 2nd year Comp Sci major at UCI.  
 
-I was one of the latest contributors of [zot4plan](https://www.zot4plan.com) and currently hold the position of *webmaster* in [MAES](https://sites.uci.edu/maes/about-us/).
+I was one of the latest contributors of [zot4plan](https://www.zot4plan.com) and currently hold the position of *webmaster* in [MAES](https://sites.uci.edu/maes/).
 <!--
 **vianeymursio/vianeymursio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
