@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a 2nd year Comp Sci major at UCI
+I'm a 2nd year Comp Sci major at UCI. 
+I was one of the latest contributors of [zot4plan](zot4plan.com)
 <!--
 **vianeymursio/vianeymursio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
