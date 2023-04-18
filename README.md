@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a 2nd year Comp Sci major at UCI
 <!--
 **vianeymursio/vianeymursio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
