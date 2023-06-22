@@ -2,7 +2,7 @@
 
 I'm Vianey, a 2nd-year Comp Sci major @ UC Irvine.  
 
-I'm interested in gaining experience in web development, such as front-end, full-stack, and UI/UX.  
+I'm interested in gaining experience in web development, such as with front-end, full-stack, and UI/UX design.  
 I was one of the latest contributors of [zot4plan](https://www.zot4plan.com) and currently hold the position of *webmaster* in [MAES](https://sites.uci.edu/maes/).
 <!--
 **vianeymursio/vianeymursio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
